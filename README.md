@@ -19,6 +19,11 @@ To fully configure your custom project, please obtain a projectId from the Reown
 1. Run `pnpm install` to install dependencies
 2. Run `pnpm run dev` to start the development server
 
+## Demo
+
+[Demo on Vercel](https://test-appkit-wagmi.vercel.app/)
+
+
 ## Resources
 
 - [AppKit — Docs](https://docs.reown.com/appkit/overview)

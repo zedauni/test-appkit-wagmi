@@ -12,7 +12,7 @@ if (!projectId) {
 export const metadata = {
     name: 'ZedTestAppkitWagmi',
     description: 'Test AppKit + Wagmi',
-    url: 'http://localhost:5173', // origin must match your domain & subdomain
+    url: 'https://test-appkit-wagmi.vercel.app', // origin must match your domain & subdomain
     icons: ['https://mighty.tools/mockmind-api/content/human/102.jpg']
   }
 
